@@ -1,0 +1,7 @@
+C:\Users\Abhishek\source\repos\KMeansDemo\KMeansDemo\bin\Debug\KMeansDemo.cs.exe.config
+C:\Users\Abhishek\source\repos\KMeansDemo\KMeansDemo\bin\Debug\KMeansDemo.cs.exe
+C:\Users\Abhishek\source\repos\KMeansDemo\KMeansDemo\bin\Debug\KMeansDemo.cs.pdb
+C:\Users\Abhishek\source\repos\KMeansDemo\KMeansDemo\obj\Debug\KMeansDemo.csprojResolveAssemblyReference.cache
+C:\Users\Abhishek\source\repos\KMeansDemo\KMeansDemo\obj\Debug\KMeansDemo.csproj.CoreCompileInputs.cache
+C:\Users\Abhishek\source\repos\KMeansDemo\KMeansDemo\obj\Debug\KMeansDemo.cs.exe
+C:\Users\Abhishek\source\repos\KMeansDemo\KMeansDemo\obj\Debug\KMeansDemo.cs.pdb
